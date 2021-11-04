@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Santiago, a 21 years old web developer from Argentina.
+I'm Santiago, a 21 years old Full Stack Developer from Argentina.
 
 
 ## Skills
@@ -13,7 +13,7 @@ I'm Santiago, a 21 years old web developer from Argentina.
 - 💽 SQL, Node JS, Express, Sequelize, PostgreSQL, Firebase 
 
 ## Contact
-- Mail- santiago.cardona1@gmail.com
+- E-mail- santiago.cardona1@gmail.com
 - Cel-(+54) 9 1154697771
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santiagocardona-dev/)
