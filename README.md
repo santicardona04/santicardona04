@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Santiago, a 21 years old Full Stack Developer from Argentina.
+I'm Santiago, a Full Stack Developer from Argentina.
 
 
 ## Skills
